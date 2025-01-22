@@ -1,0 +1,5 @@
+/home/ubuntu/virtualptz/execs/vptz_backgroundModelling/CMakeFiles/vptz_backgroundModelling.dir
+/home/ubuntu/virtualptz/execs/vptz_anomalousdetection/CMakeFiles/vptz_anomalousdetection.dir
+/home/ubuntu/virtualptz/execs/vptz_gtviewer/CMakeFiles/vptz_gtviewer.dir
+/home/ubuntu/virtualptz/execs/vptz_camshift/CMakeFiles/vptz_camshift.dir
+/home/ubuntu/virtualptz/modules/vptz/CMakeFiles/litiv_vptz.dir
